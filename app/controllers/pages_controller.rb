@@ -2,9 +2,10 @@ class PagesController < ApplicationController
   def one
   end
 
-  def y
+    def two
   end
 
-  def two
+  def three
+
   end
 end
